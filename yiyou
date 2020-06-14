@@ -67,7 +67,6 @@
                     </div>
                 </div>
                 <a class="right carousel-control" href="#generic" data-slide="next">
-                    <span class="glyphicon glyphicon-chevron-right"></span>
                 </a>
                 <div id="hideInputId">
                     <input id="btnId3" class="btn" type="button" value="目的地">
